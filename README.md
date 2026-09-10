@@ -1,22 +1,278 @@
-# ⚡ About Me:
+<div align="center">
 
-🕷️ I'm rocurun, a Security Researcher. I'm on my way to becoming a Cybersecurity Specialists or a Bug hunter 🕷️
+# `r0curun`
+
+### 🕷️ Security Researcher · Web Security · OSINT · Recon · IoT
+
+<img width="2172" height="724" alt="ChatGPT Image Sep 10, 2026, 07_54_01 AM" src="https://github.com/user-attachments/assets/f1ba5747-b5e7-4f5a-8bad-4e8993a4f85a" />
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rocurun) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rocurun) 
+`RECON → UNDERSTAND → TEST → DOCUMENT`
 
-# 👨‍💻 Knowledge & Skills
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-# 📈 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=r0curun&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=r0curun&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=r0curun&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=r0curun&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=r0curun&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `whoami`
+
+I'm **r0curun**, a Security Researcher interested in understanding how applications, networks and embedded systems work — especially when they don't behave exactly as expected.
+
+I learn by **building, breaking, analyzing and documenting**.
+
+My current focus is around:
+
+```text
+┌─ Security
+│
+├── 🌐 Web & API Security
+├── 🔎 Reconnaissance
+├── 🕵️ OSINT
+├── 🐞 Vulnerability Research
+├── 💥 Bug Bounty
+├── 🐧 Linux
+│
+└─ Hardware
+   ├── 📡 Network Security
+   ├── 🤖 IoT Security
+   ├── 🔌 ESP32 / ESP8266
+   └── ⚙️ Embedded Systems
+```
+
+> **I don't want to memorize tools.**
+>
+> **I want to understand what happens underneath them.**
+
+---
+
+# `./projects`
+
+Some of the things I've been building:
+
+### 🔎 `gobscan`
+
+> **Reconnaissance + OSINT + Google Dorks**
+
+A Python CLI focused on discovering `.gob` websites potentially affected by SEO spam.
+
+```text
+Python
+ ├── Google Dorks
+ ├── OSINT
+ ├── Reconnaissance
+ └── Security Research
+```
+
+[→ Explore gobscan](https://github.com/r0curun/gobscan)
+
+---
+
+### 🌐 `scan-endpoint`
+
+> **Web Resource Discovery**
+
+A lightweight reconnaissance tool for identifying resources exposed by web applications.
+
+```text
+Target
+  │
+  ├── HTML
+  ├── JavaScript
+  ├── CSS
+  ├── Images
+  ├── Fonts
+  └── Other resources
+```
+
+[→ Explore scan-endpoint](https://github.com/r0curun/scan-endpoint)
+
+---
+
+### 📡 `WiFi Gratis`
+
+> **Security Awareness · ESP8266**
+
+An educational project built around an ESP8266 that simulates an open Wi-Fi network and captive portal to demonstrate the risks associated with connecting to unknown networks.
+
+```text
+ESP8266
+   ↓
+Open WiFi
+   ↓
+Captive Portal
+   ↓
+Security Awareness
+```
+
+[→ Explore project](https://github.com/r0curun/WiFi-Gratis-Portal-de-Concientizaci-n-sobre-Redes-Abiertas)
+
+---
+
+### 🌦️ `estacion-meteorologica`
+
+> **Embedded Systems · C · IoT**
+
+An embedded systems project combining sensors, electronics and C programming.
+
+Because understanding security sometimes means understanding **the hardware behind the software**.
+
+[→ Explore project](https://github.com/r0curun/estacion-meteorologica)
+
+---
+
+# `./toolkit`
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square\&logo=python\&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-0D1117?style=flat-square\&logo=c\&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square\&logo=c%2B%2B\&logoColor=00599C)
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat-square\&logo=gnubash\&logoColor=white)
+
+### Security
+
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-0D1117?style=flat-square\&logo=burpsuite\&logoColor=FF6633)
+![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=flat-square\&logo=nmap\&logoColor=4CAF50)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square\&logo=linux\&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square\&logo=git\&logoColor=F05032)
+
+### Hardware
+
+![ESP32](https://img.shields.io/badge/ESP32-0D1117?style=flat-square\&logo=espressif\&logoColor=E7352C)
+![ESP8266](https://img.shields.io/badge/ESP8266-0D1117?style=flat-square\&logo=espressif\&logoColor=E7352C)
+
+---
+
+# `./methodology`
+
+I like to keep things simple:
+
+```text
+             ┌─────────────┐
+             │    RECON    │
+             └──────┬──────┘
+                    ↓
+             ┌─────────────┐
+             │ UNDERSTAND  │
+             └──────┬──────┘
+                    ↓
+             ┌─────────────┐
+             │ ENUMERATE   │
+             └──────┬──────┘
+                    ↓
+             ┌─────────────┐
+             │    TEST     │
+             └──────┬──────┘
+                    ↓
+             ┌─────────────┐
+             │   ANALYZE   │
+             └──────┬──────┘
+                    ↓
+             ┌─────────────┐
+             │  DOCUMENT   │
+             └──────┬──────┘
+                    ↓
+             ┌─────────────┐
+             │    LEARN    │
+             └─────────────┘
+```
+
+The objective isn't just to find something that breaks.
+
+It's to understand:
+
+**Why does it break?**
+
+**What's exposed?**
+
+**What's the impact?**
+
+**How could it be fixed?**
+
+---
+
+# `./current_operations`
+
+```text
+[+] Web Security
+[+] Reconnaissance
+[+] OSINT
+[+] API Security
+[+] Bug Bounty
+[+] IoT / Embedded Security
+[+] Security Tooling
+
+[-] Sleep
+```
+
+---
+
+# `./research.log`
+
+```text
+$ tail -f /var/log/r0curun
+
+[+] learning
+[+] researching
+[+] building
+[+] testing
+[+] documenting
+[+] repeating...
+
+[*] curiosity detected
+[*] investigation started
+```
+
+> **Every system has an attack surface.**
+>
+> **The interesting part is finding it.**
+
+---
+
+# `./stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=r0curun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="170">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=r0curun&theme=github-dark-blue&hide_border=true&background=0D1117" height="170">
+
+</div>
+
+---
+
+# `./connect`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-r0curun-0D1117?style=for-the-badge\&logo=github)](https://github.com/r0curun)
+
+[![Website](https://img.shields.io/badge/Website-rocurun.com-0D1117?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://rocurun.com)
+
+[![X](https://img.shields.io/badge/X-@rocurun-0D1117?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/rocurun)
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────────┐
+│                                         │
+│   root@r0curun:~$ ./keep_learning.sh   │
+│                                         │
+│   > Recon                               │
+│   > Research                            │
+│   > Build                               │
+│   > Break                               │
+│   > Understand                          │
+│                                         │
+│   status: ONLINE                        │
+│                                         │
+└─────────────────────────────────────────┘
+```
+
+### 🕷️ Keep looking deeper.
+
+</div>
