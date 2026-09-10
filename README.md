@@ -2,7 +2,7 @@
 
 # `r0curun`
 
-### 🕷️ Security Researcher · Web Security · OSINT · Recon · IoT
+###  Security Researcher · Web Security · OSINT · Recon · IoT
 
 
 
@@ -260,6 +260,6 @@ $ tail -f /var/log/r0curun
 └─────────────────────────────────────────┘
 ```
 
-### 🕷️ Keep looking deeper.
+###  Keep looking deeper.
 
 </div>
