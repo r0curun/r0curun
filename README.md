@@ -14,7 +14,9 @@
 
 ## `whoami`
 
-I'm **r0curun**, a Security Researcher interested in understanding how applications, networks and embedded systems work — especially when they don't behave exactly as expected.
+I'm **r0curun**, a Security Researcher focused on understanding
+how applications, networks and embedded systems work — especially
+when they don't behave as expected.
 
 I learn by **building, breaking, analyzing and documenting**.
 
@@ -147,33 +149,20 @@ Because understanding security sometimes means understanding **the hardware behi
 I like to keep things simple:
 
 ```text
-             ┌─────────────┐
-             │    RECON    │
-             └──────┬──────┘
-                    ↓
-             ┌─────────────┐
-             │ UNDERSTAND  │
-             └──────┬──────┘
-                    ↓
-             ┌─────────────┐
-             │ ENUMERATE   │
-             └──────┬──────┘
-                    ↓
-             ┌─────────────┐
-             │    TEST     │
-             └──────┬──────┘
-                    ↓
-             ┌─────────────┐
-             │   ANALYZE   │
-             └──────┬──────┘
-                    ↓
-             ┌─────────────┐
-             │  DOCUMENT   │
-             └──────┬──────┘
-                    ↓
-             ┌─────────────┐
-             │    LEARN    │
-             └─────────────┘
+[01] recon
+     └─ understand the target
+
+[02] enumerate
+     └─ identify attack surface
+
+[03] analyze
+     └─ validate the finding
+
+[04] exploit
+     └─ prove impact safely
+
+[05] report
+     └─ document & disclose
 ```
 
 The objective isn't just to find something that breaks.
@@ -232,7 +221,7 @@ $ tail -f /var/log/r0curun
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=r0curun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="170">
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=r0curun&theme=github-dark-blue&hide_border=true&background=0D1117" height="170">
 
@@ -244,11 +233,10 @@ $ tail -f /var/log/r0curun
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-r0curun-0D1117?style=for-the-badge\&logo=github)](https://github.com/r0curun)
-
-[![Website](https://img.shields.io/badge/Website-rocurun.com-0D1117?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://rocurun.com)
-
-[![X](https://img.shields.io/badge/X-@rocurun-0D1117?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/rocurun)
+[![GitHub](https://img.shields.io/badge/GitHub-r0curun-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/r0curun)
+[![Website](https://img.shields.io/badge/Website-rocurun.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00E5FF)](https://rocurun.com)
+[![X](https://img.shields.io/badge/X-@rocurun-0D1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rocurun)
+[![Instagram](https://img.shields.io/badge/Instagram-@rocurun-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/rocurun)
 
 </div>
 
