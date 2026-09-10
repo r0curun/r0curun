@@ -4,7 +4,6 @@
 
 ### 🕷️ Security Researcher · Web Security · OSINT · Recon · IoT
 
-<img width="2172" height="724" alt="ChatGPT Image Sep 10, 2026, 07_54_01 AM" src="https://github.com/user-attachments/assets/f1ba5747-b5e7-4f5a-8bad-4e8993a4f85a" />
 
 
 `RECON → UNDERSTAND → TEST → DOCUMENT`
