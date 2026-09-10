@@ -244,22 +244,6 @@ $ tail -f /var/log/r0curun
 
 <div align="center">
 
-```text
-┌─────────────────────────────────────────┐
-│                                         │
-│   root@r0curun:~$ ./keep_learning.sh   │
-│                                         │
-│   > Recon                               │
-│   > Research                            │
-│   > Build                               │
-│   > Break                               │
-│   > Understand                          │
-│                                         │
-│   status: ONLINE                        │
-│                                         │
-└─────────────────────────────────────────┘
-```
-
 ###  Keep looking deeper.
 
 </div>
